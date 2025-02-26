@@ -1,0 +1,84 @@
+Label,Prompt
+encrypt,Encrypt the file located at /media/downloads/document.pdf
+encrypt,Secure the file at /home/user/images/photo.jpg
+encrypt,Apply encryption to the file in /backups/files/image.png
+encrypt,Protect the file /data/private/video.mp4
+encrypt,Lock the file at /user/documents/report.docx
+encrypt,Run encryption on the file /media/secure/audio.mp3
+encrypt,Please encrypt the file in /archives/2023/file.zip
+encrypt,Ensure encryption for /backup/critical/info.txt
+encrypt,Encrypt this document: /downloads/docs/contract.pdf
+encrypt,Start encryption for /shared/important/photo.jpg
+encrypt,Encrypt the file located at /documents/personal/data.csv
+encrypt,Apply secure encryption to /media/files/project.pptx
+encrypt,Please lock /downloads/secure/file.mp4
+encrypt,Add encryption to /user/photos/private/photo123.jpg
+encrypt,Start the encryption process on /backup/archive.zip
+encrypt,Encrypt and protect the file located at /temp/folder/file.docx
+encrypt,Run encryption on /data/videos/movie.avi
+encrypt,Secure the contents of /backup/family/photos.jpeg
+encrypt,Encrypt this file: /mydocs/private/diary.txt
+encrypt,Start encryption for /system/logs/backup.log
+encrypt,Apply strong encryption to /user/files/confidential.pdf
+encrypt,Encrypt and secure /media/private/database.sql
+encrypt,Please encrypt /backup/old/files/photo2020.jpg
+encrypt,Add encryption to /documents/work/contract.doc
+encrypt,Encrypt /shared/projects/proposal.docx
+encrypt,Protect the file at /media/storage/report.xlsx
+encrypt,Encrypt the contents of /home/user/documents/resume.docx
+encrypt,Lock the file located at /pictures/2022/vacation.jpg
+encrypt,Ensure encryption for /backup/documents/secrets.txt
+encrypt,Apply encryption on /private/data/securefile.zip
+encrypt,Start secure encryption on /user/photos/private/image.png
+encrypt,Encrypt the file at /temp/archive/encrypted.pdf
+encrypt,Protect the file located at /user/docs/confidential.docx
+encrypt,Run encryption on /media/storage/protected-file.mp3
+encrypt,Add strong encryption to /secure/folder/backup.zip
+encrypt,Apply encryption on the file /archive/2023/record.xlsx
+encrypt,Encrypt this folder: /private/photos/family_album/
+encrypt,Encrypt file /documents/secure/notes.txt
+encrypt,Lock and encrypt the folder /backup/old_projects/
+encrypt,Start encryption on /user/files/protected-report.pdf
+encrypt,Encrypt the document located at /shared/private/legal.pdf
+encrypt,Secure the video file at /media/movies/collection/film.mp4
+decrypt,Decrypt the file in /downloads/file.txt using key abc123
+decrypt,Unlock the file at /secure/docs/report.pdf with key 456xyz
+decrypt,Please decrypt the file located at /archive/encrypted.zip with key qwerty123
+decrypt,Open the file at /media/locked/data.docx with decryption key abc@789
+decrypt,Decrypt the document /user/secured/notes.txt with the passcode safe123
+decrypt,Run decryption on /private/folder/image.png using key 123unlock
+decrypt,Release the file /backup/2023/logs.txt with key access456
+decrypt,Decrypt the file in /downloads/archive.doc with key key789
+decrypt,Unlock this folder /home/user/locked/file.pdf with key mykey001
+decrypt,Please open /private/photos/secret.jpg using decryption key mypass999
+decrypt,Decrypt the file located at /mydocs/secure/info.pdf using key zxc456
+decrypt,Unlock and open /documents/encrypted/files/report.docx with key passkey123
+decrypt,Please decrypt the image at /images/locked/image01.jpg with code key001
+decrypt,Run decryption for /backup/encrypted/music.mp3 using key safeunlock
+decrypt,Decrypt the secured folder /data/archive.zip with the passcode pass123
+decrypt,Open the file in /user/secure/videos/clip.mp4 with key unlockkey
+decrypt,Remove encryption from /files/protected/contract.doc with key 123abc
+decrypt,Decrypt and open the file /archive/safe/data.csv using the key 789xyz
+decrypt,Unlock this document /docs/secret.txt with key open123
+decrypt,Start decryption on /home/user/backup/encrypted-video.mp4 using key decryption456
+decrypt,Please decrypt /secure/2023/documents/salary.pdf with key safe456
+decrypt,Open the encrypted file /media/backup/notes.doc with the key unlockme
+decrypt,Decrypt /backup/locked-folder/image01.png with the key passkey2021
+decrypt,Unlock the secure file /data/protected/info.txt with key 789open
+decrypt,Decrypt /files/private/locked-doc.pdf using key decrypt2022
+decrypt,Release and open /archive/private/video.mp4 with key 123unlock
+decrypt,Decrypt the data file /backup/archive/secret.txt using passphrase safe@001
+decrypt,Run decryption for /media/secured/movies/video.avi with key keyunlock
+decrypt,Unlock /user/files/protected/summary.doc with key securekey789
+decrypt,Decrypt this file /temp/locked/document.pdf with key openme123
+decrypt,Please remove encryption on /photos/protected/photo01.jpg with key unlockit
+decrypt,Decrypt the archive /backup/encrypted/files.zip with key 456def
+decrypt,Unlock the report at /data/restricted/info2022.txt using key access2022
+decrypt,Open the encrypted folder /user/docs/sensitive.docx with key decryption123
+decrypt,Decrypt the file /media/personal/video_locked.mp4 with passcode 789xyz
+decrypt,Unlock the file /archive/locked_files/important.doc using key safeopen
+decrypt,Decrypt the file at /documents/encrypted/backup.doc with the key accesscode
+decrypt,Start decryption for /media/restricted/music.mp3 using key unlockpass
+decrypt,Please decrypt the protected file /backup/private/doc2021.pdf with key 987key
+decrypt,Open the encrypted PDF /files/secure/report2023.pdf with key safeaccess
+decrypt,Decrypt the compressed file /downloads/encrypted_archive.zip with key key234
