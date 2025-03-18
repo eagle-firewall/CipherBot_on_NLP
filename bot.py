@@ -78,8 +78,9 @@ def verify_path(file_path):
 
 
 def predict_file_location(files):
-    file_paths=e.get_files_by_extension(files.split('.')[-1]) 
-    
+    file_paths=e.get_files_by_extension(files)
+
+    # Convert the user input file name to a regex pattern (case-insensitive)
     matches = process.extract(files, file_paths, scorer=fuzz.ratio, limit=5)
     print("Top matching file paths:")
     for file_path, score in matches:
