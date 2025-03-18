@@ -37,6 +37,8 @@ CipherBot utilizes NER to extract key information from user commands. This inclu
    cd cipherbot
    ```
 2. Install Required Dependencies
+   ```sh
+   python3 -m spacy train config.cfg --paths.train ./supervised_learning.spacy --paths.dev ./supervised_learning.spacy --output ./decryption_key_extractor
    ```
 3. Run the bot:
    ```sh
