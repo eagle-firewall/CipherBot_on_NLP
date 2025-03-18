@@ -13,17 +13,22 @@ def get_all_files():
                 f.write(file_path + "\n")
     print('All file paths are extracted')
 
-def get_files_by_extension(extension):
-    """
-    Reads 'file_list.txt' and filters out files based on the given extension.
-    Returns a list of matching file paths.
-    """
-   
+def get_files_by_extension(files):
+    extension = files.split('.')[-1]  # Extract extension (e.g., "txt")
+    first_letter = files[0].lower()   # Extract first letter (case insensitive)
+    length = len(files)               # Get length of input filename
+
+    # Read file paths from the list
     with open("file_list.txt", "r", encoding="utf-8") as f:
         file_paths = f.read().splitlines()
 
-    matching_files = [file for file in file_paths if file.lower().endswith(tuple(extension))]
-
+    # Filter files
+    matching_files = [
+        file for file in file_paths 
+        if os.path.basename(file).lower().endswith(f".{extension.lower()}")  # Compare only filename
+        and os.path.basename(file)[0].lower() == first_letter  # Check first letter
+        and len(os.path.basename(file)) >= length  # Check length
+    ]    
     return matching_files
 
 
